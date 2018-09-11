@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\MathProject\MathProject\obj\Debug\MathProject.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\MathProject\MathProject\obj\Debug\MathProject.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\MathProject\MathProject\bin\Debug\MathProject.exe.config
+C:\Users\grund\source\repos\MathProject\MathProject\bin\Debug\MathProject.exe
+C:\Users\grund\source\repos\MathProject\MathProject\bin\Debug\MathProject.pdb
+C:\Users\grund\source\repos\MathProject\MathProject\obj\Debug\MathProject.exe
+C:\Users\grund\source\repos\MathProject\MathProject\obj\Debug\MathProject.pdb
