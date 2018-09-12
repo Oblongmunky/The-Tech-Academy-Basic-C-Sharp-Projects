@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\ShippingQuoteforPackageExersise\ShippingQuoteforPackageExersise\obj\Debug\ShippingQuoteforPackageExersise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\ShippingQuoteforPackageExersise\ShippingQuoteforPackageExersise\obj\Debug\ShippingQuoteforPackageExersise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\ShippingQuoteforPackageExersise\ShippingQuoteforPackageExersise\bin\Debug\ShippingQuoteforPackageExersise.exe.config
+C:\Users\grund\source\repos\ShippingQuoteforPackageExersise\ShippingQuoteforPackageExersise\bin\Debug\ShippingQuoteforPackageExersise.exe
+C:\Users\grund\source\repos\ShippingQuoteforPackageExersise\ShippingQuoteforPackageExersise\bin\Debug\ShippingQuoteforPackageExersise.pdb
+C:\Users\grund\source\repos\ShippingQuoteforPackageExersise\ShippingQuoteforPackageExersise\obj\Debug\ShippingQuoteforPackageExersise.exe
+C:\Users\grund\source\repos\ShippingQuoteforPackageExersise\ShippingQuoteforPackageExersise\obj\Debug\ShippingQuoteforPackageExersise.pdb
