@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\BooleanLoopExercise\BooleanLoopExercise\bin\Debug\BooleanLoopExercise.exe.config
+C:\Users\grund\source\repos\BooleanLoopExercise\BooleanLoopExercise\bin\Debug\BooleanLoopExercise.exe
+C:\Users\grund\source\repos\BooleanLoopExercise\BooleanLoopExercise\bin\Debug\BooleanLoopExercise.pdb
+C:\Users\grund\source\repos\BooleanLoopExercise\BooleanLoopExercise\obj\Debug\BooleanLoopExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\BooleanLoopExercise\BooleanLoopExercise\obj\Debug\BooleanLoopExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\BooleanLoopExercise\BooleanLoopExercise\obj\Debug\BooleanLoopExercise.exe
+C:\Users\grund\source\repos\BooleanLoopExercise\BooleanLoopExercise\obj\Debug\BooleanLoopExercise.pdb
