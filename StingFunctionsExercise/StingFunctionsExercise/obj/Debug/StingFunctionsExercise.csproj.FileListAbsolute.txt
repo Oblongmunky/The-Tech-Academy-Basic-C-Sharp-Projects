@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\StingFunctionsExercise\StingFunctionsExercise\bin\Debug\StingFunctionsExercise.exe.config
+C:\Users\grund\source\repos\StingFunctionsExercise\StingFunctionsExercise\bin\Debug\StingFunctionsExercise.exe
+C:\Users\grund\source\repos\StingFunctionsExercise\StingFunctionsExercise\bin\Debug\StingFunctionsExercise.pdb
+C:\Users\grund\source\repos\StingFunctionsExercise\StingFunctionsExercise\obj\Debug\StingFunctionsExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\StingFunctionsExercise\StingFunctionsExercise\obj\Debug\StingFunctionsExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\StingFunctionsExercise\StingFunctionsExercise\obj\Debug\StingFunctionsExercise.exe
+C:\Users\grund\source\repos\StingFunctionsExercise\StingFunctionsExercise\obj\Debug\StingFunctionsExercise.pdb
