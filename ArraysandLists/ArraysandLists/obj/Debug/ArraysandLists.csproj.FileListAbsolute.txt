@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.exe.config
+C:\Users\grund\source\repos\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.exe
+C:\Users\grund\source\repos\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.pdb
+C:\Users\grund\source\repos\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.exe
+C:\Users\grund\source\repos\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.pdb
