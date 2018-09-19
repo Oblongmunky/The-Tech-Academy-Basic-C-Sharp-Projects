@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\VoidMethodExercise\VoidMethodExercise\bin\Debug\VoidMethodExercise.exe.config
+C:\Users\grund\source\repos\VoidMethodExercise\VoidMethodExercise\bin\Debug\VoidMethodExercise.exe
+C:\Users\grund\source\repos\VoidMethodExercise\VoidMethodExercise\bin\Debug\VoidMethodExercise.pdb
+C:\Users\grund\source\repos\VoidMethodExercise\VoidMethodExercise\obj\Debug\VoidMethodExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\VoidMethodExercise\VoidMethodExercise\obj\Debug\VoidMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\VoidMethodExercise\VoidMethodExercise\obj\Debug\VoidMethodExercise.exe
+C:\Users\grund\source\repos\VoidMethodExercise\VoidMethodExercise\obj\Debug\VoidMethodExercise.pdb
