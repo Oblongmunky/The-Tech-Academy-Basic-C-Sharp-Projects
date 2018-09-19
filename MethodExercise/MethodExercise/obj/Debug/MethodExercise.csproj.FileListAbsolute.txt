@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.exe.config
+C:\Users\grund\source\repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.exe
+C:\Users\grund\source\repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.pdb
+C:\Users\grund\source\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.exe
+C:\Users\grund\source\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.pdb
