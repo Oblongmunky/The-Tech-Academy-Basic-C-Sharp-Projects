@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\ThreeMethodExercise\ThreeMethodExercise\bin\Debug\ThreeMethodExercise.exe.config
+C:\Users\grund\source\repos\ThreeMethodExercise\ThreeMethodExercise\bin\Debug\ThreeMethodExercise.exe
+C:\Users\grund\source\repos\ThreeMethodExercise\ThreeMethodExercise\bin\Debug\ThreeMethodExercise.pdb
+C:\Users\grund\source\repos\ThreeMethodExercise\ThreeMethodExercise\obj\Debug\ThreeMethodExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\ThreeMethodExercise\ThreeMethodExercise\obj\Debug\ThreeMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\ThreeMethodExercise\ThreeMethodExercise\obj\Debug\ThreeMethodExercise.exe
+C:\Users\grund\source\repos\ThreeMethodExercise\ThreeMethodExercise\obj\Debug\ThreeMethodExercise.pdb
