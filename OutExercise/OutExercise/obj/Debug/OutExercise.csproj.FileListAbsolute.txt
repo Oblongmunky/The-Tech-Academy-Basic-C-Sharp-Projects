@@ -1,0 +1,7 @@
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutExercise\OutExercise\bin\Debug\OutExercise.exe.config
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutExercise\OutExercise\bin\Debug\OutExercise.exe
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutExercise\OutExercise\bin\Debug\OutExercise.pdb
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutExercise\OutExercise\obj\Debug\OutExercise.csprojAssemblyReference.cache
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutExercise\OutExercise\obj\Debug\OutExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutExercise\OutExercise\obj\Debug\OutExercise.exe
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OutExercise\OutExercise\obj\Debug\OutExercise.pdb

@@ -8,9 +8,11 @@ namespace OutExercise
 {
     public class MyOut
     {
-        public void outPut(int a)
+        public void outPut(out int b)
         {
-            a = a / 2;
+            int temp = 5;
+            b = temp;
+            b = b / 2;
         }
         //public void outPut(decimal a)
         //{

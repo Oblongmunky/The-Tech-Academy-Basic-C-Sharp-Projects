@@ -13,7 +13,7 @@ namespace OutExercise
             MyOut a1 = new MyOut();
             Console.WriteLine("type a number");
             int n1 = Convert.ToInt16(Console.ReadLine());
-            a1.outPut(n1);
+            a1.outPut(out n1);
         }
     }
 }
