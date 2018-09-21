@@ -5,3 +5,10 @@ C:\Users\grund\source\repos\OptionalExercise\OptionalExercise\obj\Debug\Optional
 C:\Users\grund\source\repos\OptionalExercise\OptionalExercise\obj\Debug\OptionalExercise.csproj.CoreCompileInputs.cache
 C:\Users\grund\source\repos\OptionalExercise\OptionalExercise\obj\Debug\OptionalExercise.exe
 C:\Users\grund\source\repos\OptionalExercise\OptionalExercise\obj\Debug\OptionalExercise.pdb
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalExercise\OptionalExercise\bin\Debug\OptionalExercise.exe.config
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalExercise\OptionalExercise\bin\Debug\OptionalExercise.exe
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalExercise\OptionalExercise\bin\Debug\OptionalExercise.pdb
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalExercise\OptionalExercise\obj\Debug\OptionalExercise.csprojAssemblyReference.cache
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalExercise\OptionalExercise\obj\Debug\OptionalExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalExercise\OptionalExercise\obj\Debug\OptionalExercise.exe
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OptionalExercise\OptionalExercise\obj\Debug\OptionalExercise.pdb
