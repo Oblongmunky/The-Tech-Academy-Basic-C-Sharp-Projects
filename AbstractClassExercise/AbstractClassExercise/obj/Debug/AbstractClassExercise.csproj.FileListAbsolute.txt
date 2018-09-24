@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\AbstractClassExercise\AbstractClassExercise\bin\Debug\AbstractClassExercise.exe.config
+C:\Users\grund\source\repos\AbstractClassExercise\AbstractClassExercise\bin\Debug\AbstractClassExercise.exe
+C:\Users\grund\source\repos\AbstractClassExercise\AbstractClassExercise\bin\Debug\AbstractClassExercise.pdb
+C:\Users\grund\source\repos\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.exe
+C:\Users\grund\source\repos\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.pdb
