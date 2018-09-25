@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\StructsExercise\StructsExercise\bin\Debug\StructsExercise.exe.config
+C:\Users\grund\source\repos\StructsExercise\StructsExercise\bin\Debug\StructsExercise.exe
+C:\Users\grund\source\repos\StructsExercise\StructsExercise\bin\Debug\StructsExercise.pdb
+C:\Users\grund\source\repos\StructsExercise\StructsExercise\obj\Debug\StructsExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\StructsExercise\StructsExercise\obj\Debug\StructsExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\StructsExercise\StructsExercise\obj\Debug\StructsExercise.exe
+C:\Users\grund\source\repos\StructsExercise\StructsExercise\obj\Debug\StructsExercise.pdb
