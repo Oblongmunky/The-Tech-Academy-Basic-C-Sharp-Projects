@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\GenericsExercise\GenericsExercise\bin\Debug\GenericsExercise.exe.config
+C:\Users\grund\source\repos\GenericsExercise\GenericsExercise\bin\Debug\GenericsExercise.exe
+C:\Users\grund\source\repos\GenericsExercise\GenericsExercise\bin\Debug\GenericsExercise.pdb
+C:\Users\grund\source\repos\GenericsExercise\GenericsExercise\obj\Debug\GenericsExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\GenericsExercise\GenericsExercise\obj\Debug\GenericsExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\GenericsExercise\GenericsExercise\obj\Debug\GenericsExercise.exe
+C:\Users\grund\source\repos\GenericsExercise\GenericsExercise\obj\Debug\GenericsExercise.pdb
