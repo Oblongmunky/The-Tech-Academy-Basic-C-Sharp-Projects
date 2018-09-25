@@ -6,34 +6,30 @@ using System.Threading.Tasks;
 
 namespace OverloadOperatorExercise
 {
-    public class Number: Employee
+    public class EmployeeIdNumber
     {
-        int n;
-        public Number()
+        public int n { get; set; }
+        public EmployeeIdNumber()
         {
             n = 0;
         }
-        public Number(int x)
+        public EmployeeIdNumber(int x)
         {
             n = x;
         }
-        public static bool operator ==(Number x, Number y)
+        public static bool operator ==(EmployeeIdNumber x, EmployeeIdNumber y)
         {
-            if (x.n == y.n)
+            if (x == y)
                 return true;
             else
                 return false;
         }
-        public static bool operator !=(Number x, Number y)
+        public static bool operator !=(EmployeeIdNumber x, EmployeeIdNumber y)
         {
-            if (x.n != y.n)
+            if (x != y)
                 return true;
             else
                 return false;
-        }
-        public int getValue()
-        {
-            return n;
         }
     }
 }

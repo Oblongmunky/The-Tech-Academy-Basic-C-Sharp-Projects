@@ -1,0 +1,7 @@
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorExercise\OverloadOperatorExercise\bin\Debug\OverloadOperatorExercise.exe.config
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorExercise\OverloadOperatorExercise\bin\Debug\OverloadOperatorExercise.exe
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorExercise\OverloadOperatorExercise\bin\Debug\OverloadOperatorExercise.pdb
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorExercise\OverloadOperatorExercise\obj\Debug\OverloadOperatorExercise.csprojAssemblyReference.cache
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorExercise\OverloadOperatorExercise\obj\Debug\OverloadOperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorExercise\OverloadOperatorExercise\obj\Debug\OverloadOperatorExercise.exe
+C:\Users\grund\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OverloadOperatorExercise\OverloadOperatorExercise\obj\Debug\OverloadOperatorExercise.pdb
