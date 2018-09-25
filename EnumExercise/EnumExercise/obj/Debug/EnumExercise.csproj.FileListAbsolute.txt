@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\EnumExercise\EnumExercise\bin\Debug\EnumExercise.exe.config
+C:\Users\grund\source\repos\EnumExercise\EnumExercise\bin\Debug\EnumExercise.exe
+C:\Users\grund\source\repos\EnumExercise\EnumExercise\bin\Debug\EnumExercise.pdb
+C:\Users\grund\source\repos\EnumExercise\EnumExercise\obj\Debug\EnumExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\EnumExercise\EnumExercise\obj\Debug\EnumExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\EnumExercise\EnumExercise\obj\Debug\EnumExercise.exe
+C:\Users\grund\source\repos\EnumExercise\EnumExercise\obj\Debug\EnumExercise.pdb
