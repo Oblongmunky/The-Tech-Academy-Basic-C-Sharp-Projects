@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\LogExercise\LogExercise\bin\Debug\LogExercise.exe.config
+C:\Users\grund\source\repos\LogExercise\LogExercise\bin\Debug\LogExercise.exe
+C:\Users\grund\source\repos\LogExercise\LogExercise\bin\Debug\LogExercise.pdb
+C:\Users\grund\source\repos\LogExercise\LogExercise\obj\Debug\LogExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\LogExercise\LogExercise\obj\Debug\LogExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\LogExercise\LogExercise\obj\Debug\LogExercise.exe
+C:\Users\grund\source\repos\LogExercise\LogExercise\obj\Debug\LogExercise.pdb
