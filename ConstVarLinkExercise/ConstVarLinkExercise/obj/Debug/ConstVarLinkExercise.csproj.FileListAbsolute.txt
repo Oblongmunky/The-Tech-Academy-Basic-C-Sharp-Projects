@@ -1,0 +1,7 @@
+C:\Users\grund\source\repos\ConstVarLinkExercise\ConstVarLinkExercise\obj\Debug\ConstVarLinkExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\ConstVarLinkExercise\ConstVarLinkExercise\obj\Debug\ConstVarLinkExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\ConstVarLinkExercise\ConstVarLinkExercise\bin\Debug\ConstVarLinkExercise.exe.config
+C:\Users\grund\source\repos\ConstVarLinkExercise\ConstVarLinkExercise\bin\Debug\ConstVarLinkExercise.exe
+C:\Users\grund\source\repos\ConstVarLinkExercise\ConstVarLinkExercise\bin\Debug\ConstVarLinkExercise.pdb
+C:\Users\grund\source\repos\ConstVarLinkExercise\ConstVarLinkExercise\obj\Debug\ConstVarLinkExercise.exe
+C:\Users\grund\source\repos\ConstVarLinkExercise\ConstVarLinkExercise\obj\Debug\ConstVarLinkExercise.pdb
